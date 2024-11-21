@@ -9,16 +9,6 @@ This project aims to build a music retrieval system that matches hummed audio cl
 - **Machine Learning Model**: Implements supervised learning for song classification based on hummed features.
 - **Scalable Architecture**: Designed to handle large datasets and can be expanded for global music retrieval with the addition of deep learning techniques.
 
-## Project Structure
-
-music_retrieval_through_humming/
-|
-├── src/
-│   ├── feature_extraction.py   # Code for feature extraction from audio.
-│   ├── model_training.py       # Code for training the retrieval model.
-│   └── matching_algorithm.py   # Code for song matching based on features.
-│
-└── README.md                   # Project documentation.
 
 
 ## Dependencies
